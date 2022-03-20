@@ -19,8 +19,13 @@
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.15.0",
+    "@typescript-eslint/parser": "^5.15.0",
+    "eslint": "^8.11.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
     "gh-pages": "^3.2.3",
-    "prettier": "^2.5.1",
+    "prettier": "^2.6.0",
     "typescript": "^4.6.2"
   },
   "keywords": [
