@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "gatsby-newmki",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A simple gatsby blog",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "newmki <owen.ki.dev@gmail.com>",
   "dependencies": {
     "gatsby": "^4.10.0",
     "gatsby-plugin-gatsby-cloud": "^4.10.0",
@@ -39,10 +39,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/newmki/newmki.github.io"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/newmki/newmki.github.io/issues"
   },
   "homepage": "https://newmki.github.io/"
 }
